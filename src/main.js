@@ -16,10 +16,6 @@ const vueLifecycles = singleSpaVue({
         mountParcel: this.mountParcel,
         singleSpa: this.singleSpa,
         */
-
-        name: this.name,
-        mountParcel: this.mountParcel,
-        singleSpa: this.singleSpa,
       });
     },
   },
