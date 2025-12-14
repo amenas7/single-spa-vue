@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "serve:safe": "vue-cli-service serve --disable-host-check --public",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "serve:standalone": "vue-cli-service serve --mode standalone"
