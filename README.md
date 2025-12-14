@@ -1,4 +1,4 @@
-# Microfront usando Vue y Single SPA 🚀
+# Proyecto Vue y Micro front Single SPA 🚀
 
 ## Project setup
 ```
@@ -7,13 +7,13 @@ npm install
 
 ## Iniciar el proyecto
 
-Para levantar este microfrontend Vue, ejecuta:
+Para levantar el proyecto Vue, ejecuta:
 
 ```
-npm run serve
+npm run start
 ```
 
-**Importante:** Este proyecto debe ejecutarse **antes** que el proyecto root, ya que el proyecto root depende de este microfrontend para funcionar correctamente.
+**Importante:** Este proyecto debe ejecutarse **antes** que el proyecto root, ya que el proyecto root depende de este proyecto para funcionar correctamente.
 
 ### Compiles and minifies for production
 ```
